@@ -1,0 +1,32 @@
+{
+  "id": "sky",
+  "name": "Sky TV",
+  "domain": "sky.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Sky Essential TV / Basic",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 15.00, "currency": "GBP", "region": "GB" },
+        { "cost": 15.00, "currency": "EUR", "region": "IE" },
+        { "cost": 15.00, "currency": "EUR", "region": "DE" },
+        { "cost": 14.90, "currency": "EUR", "region": "IT" },
+        { "cost": 25.99, "currency": "NZD", "region": "NZ" }
+      ]
+    },
+    {
+      "name": "Sky Ultimate TV / Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 24.00, "currency": "GBP", "region": "GB" },
+        { "cost": 24.00, "currency": "EUR", "region": "IE" },
+        { "cost": 24.00, "currency": "EUR", "region": "DE" },
+        { "cost": 24.90, "currency": "EUR", "region": "IT" },
+        { "cost": 39.99, "currency": "NZD", "region": "NZ" }
+      ]
+    }
+  ]
+}

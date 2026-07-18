@@ -1,0 +1,17 @@
+{
+  "id": "adobe-cc",
+  "name": "Adobe Creative Cloud",
+  "domain": "adobe.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "All Apps",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 59.99, "currency": "USD", "region": "US" },
+        { "cost": 65.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

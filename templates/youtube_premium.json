@@ -1,0 +1,96 @@
+{
+  "id": "youtube-premium",
+  "name": "YouTube Premium",
+  "domain": "youtube.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Student",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 8.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 7.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 8.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 15.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 12.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 14.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 159.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 129.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 149.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 26.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 19.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 22.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

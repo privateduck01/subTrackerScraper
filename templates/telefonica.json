@@ -1,0 +1,45 @@
+{
+  "id": "telefonica",
+  "name": "Telefónica (Movistar/O2/Vivo)",
+  "iconUrl": "icons/telefonica.jpg",
+  "icon_file": "icons/telefonica.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Contract",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "EUR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Pay As You Go",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "EUR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Fiber Broadband",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "EUR",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

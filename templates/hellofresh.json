@@ -1,0 +1,28 @@
+{
+  "id": "hellofresh",
+  "name": "HelloFresh",
+  "domain": "hellofresh.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Box for 2 (3 meals/week)",
+      "periodQty": 1,
+      "periodUnit": "WEEK",
+      "prices": [
+        { "cost": 35.00, "currency": "GBP", "region": "GB" },
+        { "cost": 45.00, "currency": "EUR", "region": "EU" },
+        { "cost": 50.00, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Box for 4 (3 meals/week)",
+      "periodQty": 1,
+      "periodUnit": "WEEK",
+      "prices": [
+        { "cost": 50.00, "currency": "GBP", "region": "GB" },
+        { "cost": 65.00, "currency": "EUR", "region": "EU" },
+        { "cost": 75.00, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

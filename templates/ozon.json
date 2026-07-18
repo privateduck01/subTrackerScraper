@@ -1,0 +1,57 @@
+{
+  "id": "ozon",
+  "name": "Ozon",
+  "domain": "ozon.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Ozon Premium (Покупатель)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 199,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Ozon Premium (Покупатель) - Год",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 1790,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Ozon Premium (Продавец)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 4990,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Ozon Premium Pro (Продавец)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 24990,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/OZON.svg"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "youtube-music",
+  "name": "YouTube Music Premium",
+  "domain": "music.youtube.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Student",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 5.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 5.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 11.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 11.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 11.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 119.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 119.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 119.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 18.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 17.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 17.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

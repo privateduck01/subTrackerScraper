@@ -1,0 +1,104 @@
+{
+  "id": "nordvpn",
+  "name": "NordVPN",
+  "domain": "nordvpn.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Basic (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Basic (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 59.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Basic (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 83.76, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Plus (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 15.29, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Plus (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 65.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Plus (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 86.16, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Complete (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 18.69, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Complete (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 83.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Complete (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 119.76, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Prime (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 25.29, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Prime (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 107.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Prime (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 167.76, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

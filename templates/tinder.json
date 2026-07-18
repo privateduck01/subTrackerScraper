@@ -1,0 +1,68 @@
+{
+  "id": "tinder",
+  "name": "Tinder",
+  "domain": "tinder.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Plus",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 25.00, "currency": "USD", "region": "US" },
+        { "cost": 19.00, "currency": "GBP", "region": "GB" },
+        { "cost": 25.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Plus Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 180.00, "currency": "USD", "region": "US" },
+        { "cost": 130.00, "currency": "GBP", "region": "GB" },
+        { "cost": 180.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Gold",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 40.00, "currency": "USD", "region": "US" },
+        { "cost": 30.00, "currency": "GBP", "region": "GB" },
+        { "cost": 40.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Gold Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 240.00, "currency": "USD", "region": "US" },
+        { "cost": 180.00, "currency": "GBP", "region": "GB" },
+        { "cost": 240.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Platinum",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 50.00, "currency": "USD", "region": "US" },
+        { "cost": 35.00, "currency": "GBP", "region": "GB" },
+        { "cost": 50.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Platinum Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 336.00, "currency": "USD", "region": "US" },
+        { "cost": 250.00, "currency": "GBP", "region": "GB" },
+        { "cost": 336.00, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

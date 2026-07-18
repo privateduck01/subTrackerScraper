@@ -1,0 +1,36 @@
+{
+  "id": "grok",
+  "name": "Grok",
+  "domain": "x.ai",
+  "defaultTier": 0,
+  "icon_file": "icons/grok-seeklogo.svg",
+  "tiers": [
+    {
+      "name": "SuperGrok Lite",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 10.0, "currency": "USD", "region": "US" },
+        { "cost": 1000.0, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "SuperGrok",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 30.0, "currency": "USD", "region": "US" },
+        { "cost": 3000.0, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "SuperGrok Heavy",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 300.0, "currency": "USD", "region": "US" },
+        { "cost": 30000.0, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

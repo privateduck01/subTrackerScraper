@@ -1,0 +1,33 @@
+{
+  "id": "spirit-fitness",
+  "name": "Spirit.Fitness",
+  "iconUrl": "icons/spirit-fitness.jpg",
+  "icon_file": "icons/spirit-fitness.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка (Ежемесячная)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Годовой абонемент",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

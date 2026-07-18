@@ -1,0 +1,64 @@
+{
+  "id": "protonvpn",
+  "name": "ProtonVPN",
+  "domain": "protonvpn.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Proton Free",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 0, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "VPN Plus (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 9.99, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "VPN Plus (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 47.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "VPN Plus (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 71.76, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Proton Unlimited (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Proton Unlimited (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 119.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Proton Unlimited (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 191.76, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

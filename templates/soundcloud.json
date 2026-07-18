@@ -1,0 +1,74 @@
+{
+  "id": "soundcloud",
+  "name": "SoundCloud Go+",
+  "domain": "soundcloud.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Student",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 5.49,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.49,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 5.49,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Go+",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 11.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 11.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 11.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Go+ Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 119.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 119.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 119.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

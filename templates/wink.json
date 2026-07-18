@@ -1,0 +1,21 @@
+{
+  "id": "wink",
+  "name": "Wink",
+  "domain": "wink.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Всё в одном",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 399,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/wink.jpg"
+}

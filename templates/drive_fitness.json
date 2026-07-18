@@ -1,0 +1,33 @@
+{
+  "id": "drive-fitness",
+  "name": "Drive Fitness",
+  "iconUrl": "icons/drive-fitness.jpg",
+  "icon_file": "icons/drive-fitness.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Клубная карта (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Клубная карта (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

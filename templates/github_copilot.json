@@ -1,0 +1,141 @@
+{
+  "id": "github-copilot",
+  "name": "GitHub Copilot",
+  "domain": "github.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Pro",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 10.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 10.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Pro Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 100.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 100.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 100.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Pro+",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 39.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 39.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 39.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 100.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 100.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 100.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 19.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 19.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 39.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 39.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 39.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/github-copilot.svg"
+}

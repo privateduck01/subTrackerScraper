@@ -1,0 +1,48 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "domain": "notion.so",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Plus",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.00, "currency": "USD", "region": "US" },
+        { "cost": 10.00, "currency": "GBP", "region": "GB" },
+        { "cost": 12.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Plus Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 120.00, "currency": "USD", "region": "US" },
+        { "cost": 100.00, "currency": "GBP", "region": "GB" },
+        { "cost": 120.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Business",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 24.00, "currency": "USD", "region": "US" },
+        { "cost": 20.00, "currency": "GBP", "region": "GB" },
+        { "cost": 24.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Business Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 240.00, "currency": "USD", "region": "US" },
+        { "cost": 200.00, "currency": "GBP", "region": "GB" },
+        { "cost": 240.00, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

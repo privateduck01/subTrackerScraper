@@ -1,0 +1,45 @@
+{
+  "id": "ddx-fitness",
+  "name": "DDX Fitness",
+  "iconUrl": "icons/ddx-fitness.jpg",
+  "icon_file": "icons/ddx-fitness.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Light",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Smart",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Infinity",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

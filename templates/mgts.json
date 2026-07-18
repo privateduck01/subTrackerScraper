@@ -1,0 +1,21 @@
+{
+  "id": "mgts",
+  "name": "МГТС",
+  "iconUrl": "icons/mgts.jpg",
+  "icon_file": "icons/mgts.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет (GPON)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

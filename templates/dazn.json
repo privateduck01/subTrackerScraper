@@ -1,0 +1,36 @@
+{
+  "id": "dazn",
+  "name": "DAZN",
+  "domain": "dazn.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "DAZN Standard / Monthly",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 24.99, "currency": "GBP", "region": "GB" },
+        { "cost": 34.99, "currency": "USD", "region": "US" },
+        { "cost": 34.99, "currency": "CAD", "region": "CA" },
+        { "cost": 4200, "currency": "JPY", "region": "JP" },
+        { "cost": 44.99, "currency": "EUR", "region": "DE" },
+        { "cost": 39.99, "currency": "EUR", "region": "IT" },
+        { "cost": 29.99, "currency": "EUR", "region": "ES" }
+      ]
+    },
+    {
+      "name": "DAZN Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 249.99, "currency": "GBP", "region": "GB" },
+        { "cost": 249.99, "currency": "USD", "region": "US" },
+        { "cost": 249.99, "currency": "CAD", "region": "CA" },
+        { "cost": 32000, "currency": "JPY", "region": "JP" },
+        { "cost": 359.88, "currency": "EUR", "region": "DE" },
+        { "cost": 299.99, "currency": "EUR", "region": "IT" },
+        { "cost": 299.99, "currency": "EUR", "region": "ES" }
+      ]
+    }
+  ]
+}

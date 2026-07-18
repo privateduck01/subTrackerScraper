@@ -1,0 +1,119 @@
+{
+  "id": "xbox-game-pass",
+  "name": "Xbox Game Pass",
+  "domain": "xbox.com",
+  "defaultTier": 3,
+  "tiers": [
+    {
+      "name": "Core",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 9.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 6.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 8.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Core Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 59.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 49.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 59.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 14.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 12.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "PC",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 13.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 12.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Ultimate",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 22.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 16.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 20.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/xbox-icon-logo.svg"
+}

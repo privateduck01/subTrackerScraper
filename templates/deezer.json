@@ -1,0 +1,56 @@
+{
+  "id": "deezer",
+  "name": "Deezer",
+  "domain": "deezer.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Deezer Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 11.99, "currency": "EUR", "region": "EU" },
+        { "cost": 11.99, "currency": "GBP", "region": "GB" },
+        { "cost": 11.99, "currency": "USD", "region": "US" },
+        { "cost": 24.90, "currency": "BRL", "region": "BR" },
+        { "cost": 139.00, "currency": "MXN", "region": "MX" }
+      ]
+    },
+    {
+      "name": "Deezer Premium (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 107.99, "currency": "EUR", "region": "EU" },
+        { "cost": 107.99, "currency": "GBP", "region": "GB" },
+        { "cost": 107.99, "currency": "USD", "region": "US" },
+        { "cost": 224.10, "currency": "BRL", "region": "BR" },
+        { "cost": 1251.00, "currency": "MXN", "region": "MX" }
+      ]
+    },
+    {
+      "name": "Deezer Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "EUR", "region": "EU" },
+        { "cost": 19.99, "currency": "GBP", "region": "GB" },
+        { "cost": 19.99, "currency": "USD", "region": "US" },
+        { "cost": 39.90, "currency": "BRL", "region": "BR" },
+        { "cost": 219.00, "currency": "MXN", "region": "MX" }
+      ]
+    },
+    {
+      "name": "Deezer Family (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 218.99, "currency": "EUR", "region": "EU" },
+        { "cost": 218.99, "currency": "GBP", "region": "GB" },
+        { "cost": 218.99, "currency": "USD", "region": "US" },
+        { "cost": 399.00, "currency": "BRL", "region": "BR" },
+        { "cost": 2190.00, "currency": "MXN", "region": "MX" }
+      ]
+    }
+  ]
+}

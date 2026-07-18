@@ -1,0 +1,33 @@
+{
+  "id": "fitstars",
+  "name": "FitStars (Онлайн-фитнес)",
+  "iconUrl": "icons/fitstars.jpg",
+  "icon_file": "icons/fitstars.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Безлимит навсегда (Единоразово)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

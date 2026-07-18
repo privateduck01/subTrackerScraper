@@ -1,0 +1,33 @@
+{
+  "id": "ivi",
+  "name": "Ivi",
+  "domain": "ivi.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "С рекламой",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 199,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Базовая подписка",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 399,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/ivi.svg"
+}

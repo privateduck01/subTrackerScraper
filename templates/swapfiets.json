@@ -1,0 +1,44 @@
+{
+  "id": "swapfiets",
+  "name": "Swapfiets",
+  "domain": "swapfiets.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Original",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.90, "currency": "GBP", "region": "GB" },
+        { "cost": 19.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Deluxe 7",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.90, "currency": "GBP", "region": "GB" },
+        { "cost": 24.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Power 1 (E-Bike)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 59.90, "currency": "GBP", "region": "GB" },
+        { "cost": 59.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Power 7 (E-Bike)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 109.90, "currency": "GBP", "region": "GB" },
+        { "cost": 109.90, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

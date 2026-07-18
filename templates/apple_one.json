@@ -1,0 +1,75 @@
+{
+  "id": "apple-one",
+  "name": "Apple One",
+  "domain": "apple.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19.95,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 18.95,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 21.95,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 25.95,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 24.95,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 29.95,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premier",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 37.95,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 36.95,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 37.95,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/apple-one.svg"
+}

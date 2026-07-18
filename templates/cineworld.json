@@ -1,0 +1,24 @@
+{
+  "id": "cineworld",
+  "name": "Cineworld",
+  "domain": "cineworld.co.uk",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Unlimited Group 1 (Selected Cinemas)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Unlimited Group 4 (All Cinemas)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 22.99, "currency": "GBP", "region": "GB" }
+      ]
+    }
+  ]
+}

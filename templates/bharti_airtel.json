@@ -1,0 +1,69 @@
+{
+  "id": "bharti-airtel",
+  "name": "Bharti Airtel",
+  "iconUrl": "icons/bharti-airtel.jpg",
+  "icon_file": "icons/bharti-airtel.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Prepaid (Hero Unlimited)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Postpaid (Infinity)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Airtel Xstream Fiber",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Airtel Digital TV (DTH)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Family Plan",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

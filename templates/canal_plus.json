@@ -1,0 +1,48 @@
+{
+  "id": "canal-plus",
+  "name": "Canal+",
+  "domain": "canalplus.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Canal+ Essentiel (Sans engagement)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 24.99, "currency": "EUR", "region": "FR" }
+      ]
+    },
+    {
+      "name": "Canal+ Essentiel (Engagement 24 mois)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "EUR", "region": "FR" }
+      ]
+    },
+    {
+      "name": "Canal+ Essentiel (-26 ans)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "EUR", "region": "FR" }
+      ]
+    },
+    {
+      "name": "Canal+ Ciné Séries",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 34.99, "currency": "EUR", "region": "FR" }
+      ]
+    },
+    {
+      "name": "100% Canal+ / La Totale",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 59.99, "currency": "EUR", "region": "FR" }
+      ]
+    }
+  ]
+}

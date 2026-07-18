@@ -1,0 +1,32 @@
+{
+  "id": "premier",
+  "name": "PREMIER",
+  "domain": "premier.one",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "PREMIER (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "PREMIER (3 месяца)",
+      "periodQty": 3,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 699, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "PREMIER (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 1799, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

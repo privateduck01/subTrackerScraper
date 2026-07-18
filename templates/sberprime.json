@@ -1,0 +1,57 @@
+{
+  "id": "sberprime",
+  "name": "СберПрайм",
+  "domain": "sberbank.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "СберПрайм",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 399,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "СберПрайм (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 3990,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "СберПрайм+",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 599,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "СберПрайм+ (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 5990,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/sber-prime-seeklogo.svg"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "claude",
+  "name": "Claude",
+  "domain": "claude.ai",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Pro (Monthly)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 20.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 19.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 22.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Pro (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 204.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 200.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 230.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Max 5x",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 100.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 95.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 115.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Max 20x",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 200.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 190.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 230.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Team Standard (Monthly)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 25.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 24.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 28.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Team Standard (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 240.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 240.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 275.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Team Premium (Monthly)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 125.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 120.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 145.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Team Premium (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 1200.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 1150.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 1400.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/claude.webp"
+}

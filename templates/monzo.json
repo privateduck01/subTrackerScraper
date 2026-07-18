@@ -1,0 +1,40 @@
+{
+  "id": "monzo",
+  "name": "Monzo",
+  "domain": "monzo.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Free",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 0, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Extra",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 3.00, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Perks",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 7.00, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Max",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 17.00, "currency": "GBP", "region": "GB" }
+      ]
+    }
+  ]
+}

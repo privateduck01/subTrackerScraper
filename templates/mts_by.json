@@ -1,0 +1,33 @@
+{
+  "id": "mts-by",
+  "name": "МТС Беларусь",
+  "iconUrl": "icons/mts-by.jpg",
+  "icon_file": "icons/mts-belarus.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    },
+    {
+      "name": "Домашний интернет (X)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    }
+  ]
+}

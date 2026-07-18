@@ -1,0 +1,45 @@
+{
+  "id": "att",
+  "name": "AT&T",
+  "iconUrl": "icons/att.jpg",
+  "icon_file": "icons/atnt.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Wireless Unlimited (Postpaid)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "USD",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Prepaid Mobile",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "USD",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "AT&T Fiber (Internet)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "USD",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

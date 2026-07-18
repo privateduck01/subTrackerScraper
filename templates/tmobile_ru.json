@@ -1,0 +1,21 @@
+{
+  "id": "tmobile-ru",
+  "name": "Т-Мобайл",
+  "iconUrl": "icons/tmobile-ru.jpg",
+  "icon_file": "icons/t-mobile-ru.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь (Конструктор)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

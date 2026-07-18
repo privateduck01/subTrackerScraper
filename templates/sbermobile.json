@@ -1,0 +1,21 @@
+{
+  "id": "sbermobile",
+  "name": "СберМобайл",
+  "iconUrl": "icons/sbermobile.jpg",
+  "icon_file": "icons/sbermobile.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

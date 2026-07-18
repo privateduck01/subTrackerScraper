@@ -1,0 +1,40 @@
+{
+  "id": "mybook",
+  "name": "MyBook",
+  "domain": "mybook.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Стандарт",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 229, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Премиум",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 549, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Премиум (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 5490, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Семейная",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 899, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

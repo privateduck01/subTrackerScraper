@@ -1,0 +1,57 @@
+{
+  "id": "boosty",
+  "name": "Boosty",
+  "domain": "boosty.to",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Базовый уровень",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 100,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Стандартный уровень",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 250,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Премиум уровень",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 500,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "VIP уровень",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 1000,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/boosty.svg"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "vk-music",
+  "name": "VK Музыка",
+  "domain": "music.vk.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "На одного",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 199, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "На одного (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 1699, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Студенческая",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 99, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "VK Музыка + Wink",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 299, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "VK Видео Премиум + Музыка",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

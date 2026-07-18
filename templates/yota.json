@@ -1,0 +1,21 @@
+{
+  "id": "yota",
+  "name": "Yota",
+  "iconUrl": "icons/yota.jpg",
+  "icon_file": "icons/yota.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь (Конструктор)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

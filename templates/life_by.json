@@ -1,0 +1,21 @@
+{
+  "id": "life-by",
+  "name": "life:) Беларусь",
+  "iconUrl": "icons/life-by.jpg",
+  "icon_file": "icons/life-by.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    }
+  ]
+}

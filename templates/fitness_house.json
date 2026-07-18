@@ -1,0 +1,33 @@
+{
+  "id": "fitness-house",
+  "name": "Fitness House",
+  "iconUrl": "icons/fitness-house.jpg",
+  "icon_file": "icons/fitness-house.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Абонемент (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Абонемент (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

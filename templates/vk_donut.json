@@ -1,0 +1,32 @@
+{
+  "id": "vk-donut",
+  "name": "VK Donut",
+  "domain": "vk.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Уровень поддержки 1",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 100, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Уровень поддержки 2",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 250, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Уровень поддержки 3",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 500, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

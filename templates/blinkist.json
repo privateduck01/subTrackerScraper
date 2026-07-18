@@ -1,0 +1,38 @@
+{
+  "id": "blinkist",
+  "name": "Blinkist",
+  "domain": "blinkist.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "GBP", "region": "GB" },
+        { "cost": 15.99, "currency": "EUR", "region": "EU" },
+        { "cost": 15.99, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Premium (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 99.99, "currency": "GBP", "region": "GB" },
+        { "cost": 99.99, "currency": "EUR", "region": "EU" },
+        { "cost": 99.99, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Pro (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 139.99, "currency": "GBP", "region": "GB" },
+        { "cost": 139.99, "currency": "EUR", "region": "EU" },
+        { "cost": 174.99, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

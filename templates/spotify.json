@@ -1,0 +1,118 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "domain": "spotify.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Student",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 6.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 5.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 12.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 12.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 11.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 129.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 129.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 119.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Duo",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 18.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 17.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 16.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 21.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 21.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 20.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

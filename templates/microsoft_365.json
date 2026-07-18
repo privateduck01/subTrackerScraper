@@ -1,0 +1,185 @@
+{
+  "id": "microsoft-365",
+  "name": "Microsoft 365",
+  "domain": "microsoft365.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Basic",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 1.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 1.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 2.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Basic Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 19.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 19.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 20.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Personal",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 9.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 7.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 9.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Personal Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 99.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 79.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 99.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 12.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 12.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 129.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 109.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 129.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium (with Copilot)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 17.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 19.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium (with Copilot) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 199.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 179.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 199.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/microsoft-365.svg"
+}

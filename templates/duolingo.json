@@ -1,0 +1,58 @@
+{
+  "id": "duolingo",
+  "name": "Duolingo",
+  "domain": "duolingo.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Super",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "USD", "region": "US" },
+        { "cost": 9.99, "currency": "GBP", "region": "GB" },
+        { "cost": 13.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Super Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 83.99, "currency": "USD", "region": "US" },
+        { "cost": 59.99, "currency": "GBP", "region": "GB" },
+        { "cost": 122.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Max",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 29.99, "currency": "USD", "region": "US" },
+        { "cost": 19.99, "currency": "GBP", "region": "GB" },
+        { "cost": 29.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Max Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 168.00, "currency": "USD", "region": "US" },
+        { "cost": 119.99, "currency": "GBP", "region": "GB" },
+        { "cost": 168.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Super Family Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 119.99, "currency": "USD", "region": "US" },
+        { "cost": 89.99, "currency": "GBP", "region": "GB" },
+        { "cost": 122.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

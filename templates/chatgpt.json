@@ -1,0 +1,68 @@
+{
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "domain": "chatgpt.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Go",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 8.00, "currency": "USD", "region": "US" },
+        { "cost": 8.00, "currency": "GBP", "region": "GB" },
+        { "cost": 9.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Plus",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 20.00, "currency": "USD", "region": "US" },
+        { "cost": 19.99, "currency": "GBP", "region": "GB" },
+        { "cost": 22.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Pro ($100)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 100.00, "currency": "USD", "region": "US" },
+        { "cost": 95.00, "currency": "GBP", "region": "GB" },
+        { "cost": 115.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Pro ($200)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 200.00, "currency": "USD", "region": "US" },
+        { "cost": 190.00, "currency": "GBP", "region": "GB" },
+        { "cost": 230.00, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Business (Monthly)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 25.00, "currency": "USD", "region": "US" },
+        { "cost": 24.99, "currency": "GBP", "region": "GB" },
+        { "cost": 28.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Business (Annual)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 240.00, "currency": "USD", "region": "US" },
+        { "cost": 240.00, "currency": "GBP", "region": "GB" },
+        { "cost": 275.00, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

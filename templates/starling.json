@@ -1,0 +1,24 @@
+{
+  "id": "starling",
+  "name": "Starling Bank",
+  "domain": "starlingbank.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Personal Account",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 0, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Starling Kite (Kids Space)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 2.00, "currency": "GBP", "region": "GB" }
+      ]
+    }
+  ]
+}

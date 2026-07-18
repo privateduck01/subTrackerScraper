@@ -1,0 +1,35 @@
+{
+  "id": "storytel",
+  "name": "Storytel",
+  "domain": "storytel.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Unlimited",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.99, "currency": "GBP", "region": "GB" },
+        { "cost": 12.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Flex / Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 9.99, "currency": "GBP", "region": "GB" },
+        { "cost": 9.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "GBP", "region": "GB" },
+        { "cost": 19.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

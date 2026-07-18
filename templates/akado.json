@@ -1,0 +1,21 @@
+{
+  "id": "akado",
+  "name": "АКАДО",
+  "iconUrl": "icons/akado.jpg",
+  "icon_file": "icons/akado-telecom-seeklogo.png",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

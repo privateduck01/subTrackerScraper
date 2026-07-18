@@ -1,0 +1,52 @@
+{
+  "id": "telegram-premium",
+  "name": "Telegram Premium",
+  "domain": "telegram.org",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Через @PremiumBot",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 299, "currency": "RUB", "region": "RU" },
+        { "cost": 3.99, "currency": "USD", "region": "US" },
+        { "cost": 4.49, "currency": "EUR", "region": "EU" },
+        { "cost": 3.99, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Через @PremiumBot (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 1990, "currency": "RUB", "region": "RU" },
+        { "cost": 28.99, "currency": "USD", "region": "US" },
+        { "cost": 31.99, "currency": "EUR", "region": "EU" },
+        { "cost": 28.99, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Через App Store / Google Play",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" },
+        { "cost": 4.99, "currency": "USD", "region": "US" },
+        { "cost": 5.49, "currency": "EUR", "region": "EU" },
+        { "cost": 4.99, "currency": "GBP", "region": "GB" }
+      ]
+    },
+    {
+      "name": "Через App Store / Google Play (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 3590, "currency": "RUB", "region": "RU" },
+        { "cost": 35.99, "currency": "USD", "region": "US" },
+        { "cost": 39.99, "currency": "EUR", "region": "EU" },
+        { "cost": 35.99, "currency": "GBP", "region": "GB" }
+      ]
+    }
+  ]
+}

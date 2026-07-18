@@ -1,0 +1,21 @@
+{
+  "id": "ufanet",
+  "name": "Уфанет",
+  "iconUrl": "icons/ufanet.jpg",
+  "icon_file": "icons/ufanet.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

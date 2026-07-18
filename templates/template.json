@@ -1,0 +1,38 @@
+{
+  "id": "my-custom-subscription",
+  "name": "My Custom Subscription",
+  "iconUrl": "",
+  "icon_file": "my-icon.png",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Basic",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 5.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 500.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 15.99,
+          "currency": "USD",
+          "region": "US"
+        }
+      ]
+    }
+  ]
+}

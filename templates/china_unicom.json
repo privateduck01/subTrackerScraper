@@ -1,0 +1,33 @@
+{
+  "id": "china-unicom",
+  "name": "China Unicom",
+  "iconUrl": "icons/china-unicom.jpg",
+  "icon_file": "icons/china-unicom.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Plan (King Card / Postpaid)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Fixed Broadband",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

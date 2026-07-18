@@ -1,0 +1,48 @@
+{
+  "id": "evernote",
+  "name": "Evernote",
+  "domain": "evernote.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Starter",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 10.99, "currency": "USD", "region": "US" },
+        { "cost": 8.99, "currency": "GBP", "region": "GB" },
+        { "cost": 9.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Starter Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 99.00, "currency": "USD", "region": "US" },
+        { "cost": 64.90, "currency": "GBP", "region": "GB" },
+        { "cost": 79.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Advanced",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 27.99, "currency": "USD", "region": "US" },
+        { "cost": 17.99, "currency": "GBP", "region": "GB" },
+        { "cost": 24.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Advanced Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 249.99, "currency": "USD", "region": "US" },
+        { "cost": 154.90, "currency": "GBP", "region": "GB" },
+        { "cost": 199.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "litres",
+  "name": "Литрес",
+  "domain": "litres.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка (Большая коллекция)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Абонемент",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

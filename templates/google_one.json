@@ -1,0 +1,229 @@
+{
+  "id": "google-one",
+  "name": "Google One",
+  "domain": "one.google.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Basic (100GB)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 1.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 1.59,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 1.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Basic (100GB) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 19.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 15.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 19.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard (200GB)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 2.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 2.49,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 2.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard (200GB) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 29.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 24.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 29.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Plus (400GB)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 4.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 4.49,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 4.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Plus (400GB) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 49.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 44.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 49.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Pro (5TB)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 18.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 21.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Pro (5TB) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 199.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 189.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 219.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Ultra (20TB)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 99.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 79.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 99.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "AI Ultra (20TB) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 999.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 799.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 999.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/google-one.png"
+}

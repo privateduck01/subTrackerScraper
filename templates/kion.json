@@ -1,0 +1,48 @@
+{
+  "id": "kion",
+  "name": "KION",
+  "domain": "kion.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "KION + Premium (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 299, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "KION + Premium (3 месяца)",
+      "periodQty": 3,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 699, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "KION + Premium (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 2490, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "КИОН ТОП",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "КИОН Музыка",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 169, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

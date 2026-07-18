@@ -1,0 +1,21 @@
+{
+  "id": "beltelecom",
+  "name": "Белтелеком (byfly / ZALA)",
+  "iconUrl": "icons/beltelecom.jpg",
+  "icon_file": "icons/BTK_Logo_CMYK_1.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет (ЯСНА)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    }
+  ]
+}

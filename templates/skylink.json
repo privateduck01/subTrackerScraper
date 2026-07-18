@@ -1,0 +1,21 @@
+{
+  "id": "skylink",
+  "name": "СкайЛинк",
+  "iconUrl": "icons/skylink.jpg",
+  "icon_file": "icons/skylink.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

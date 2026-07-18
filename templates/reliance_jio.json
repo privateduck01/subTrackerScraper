@@ -1,0 +1,45 @@
+{
+  "id": "reliance-jio",
+  "name": "Reliance Jio",
+  "iconUrl": "icons/reliance-jio.jpg",
+  "icon_file": "icons/jio-seeklogo.png",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Prepaid (True 5G)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Postpaid (JioPlus)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "JioFiber (Broadband)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "INR",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

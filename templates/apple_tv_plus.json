@@ -1,0 +1,52 @@
+{
+  "id": "apple-tv-plus",
+  "name": "Apple TV+",
+  "domain": "tv.apple.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Apple TV+",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 12.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 9.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 9.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Apple TV+ Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 129.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 99.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 99.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

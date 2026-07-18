@@ -1,0 +1,119 @@
+{
+  "id": "amazon-prime-video",
+  "name": "Amazon Prime Video",
+  "domain": "primevideo.com",
+  "defaultTier": 1,
+  "tags": ["movies", "tv", "shows", "cinema", "amazon"],
+  "tiers": [
+    {
+      "name": "Prime Video (Standalone)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 8.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 6.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Prime (With Ads)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 14.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 8.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 8.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Prime (With Ads) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 139,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 95,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 89.9,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Prime (Ad-Free)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19.98,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 11.98,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 11.98,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Prime (Ad-Free) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 174.98,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 130.88,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 125.78,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "surfshark",
+  "name": "Surfshark",
+  "domain": "surfshark.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Starter (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 15.45, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Starter (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 43.08, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Starter (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 66.96, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 17.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 43.08, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 66.96, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One+ (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 20.85, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One+ (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 89.88, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "One+ (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 107.76, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

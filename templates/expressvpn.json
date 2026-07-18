@@ -1,0 +1,64 @@
+{
+  "id": "expressvpn",
+  "name": "ExpressVPN",
+  "domain": "expressvpn.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Basic (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 12.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Basic (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 99.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Basic (2 Years)",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 59.76, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Advanced (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 14.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Advanced (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 110.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Pro (1 Month)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.95, "currency": "USD", "region": "US" }
+      ]
+    },
+    {
+      "name": "Pro (1 Year)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 130.95, "currency": "USD", "region": "US" }
+      ]
+    }
+  ]
+}

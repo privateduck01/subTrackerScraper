@@ -1,0 +1,96 @@
+{
+  "id": "crunchyroll",
+  "name": "Crunchyroll",
+  "domain": "crunchyroll.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Fan",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 9.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 6.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Fan Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 99.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 59.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 69.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Mega Fan",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 13.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 6.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 8.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Mega Fan Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 139.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 69.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 89.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ]
+}

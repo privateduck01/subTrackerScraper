@@ -1,0 +1,109 @@
+{
+  "id": "disney-plus",
+  "name": "Disney+",
+  "domain": "disneyplus.com",
+  "defaultTier": 2,
+  "tiers": [
+    {
+      "name": "Standard with Ads",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 12,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 6.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 9.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 10.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 99.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 109.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 19,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 14.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 15.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 190.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 149.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 159.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/disney-plus.svg"
+}

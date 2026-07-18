@@ -1,0 +1,45 @@
+{
+  "id": "vodafone",
+  "name": "Vodafone",
+  "iconUrl": "icons/vodafone.jpg",
+  "icon_file": "icons/vodafone.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Postpaid (Unlimited)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "GBP",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Prepaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "GBP",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Home Broadband",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "GBP",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

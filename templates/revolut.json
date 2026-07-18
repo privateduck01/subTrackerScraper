@@ -1,0 +1,53 @@
+{
+  "id": "revolut",
+  "name": "Revolut",
+  "domain": "revolut.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 0, "currency": "GBP", "region": "GB" },
+        { "cost": 0, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Plus",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 3.99, "currency": "GBP", "region": "GB" },
+        { "cost": 3.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 7.99, "currency": "GBP", "region": "GB" },
+        { "cost": 8.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Metal",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 14.99, "currency": "GBP", "region": "GB" },
+        { "cost": 16.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Ultra",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 55.00, "currency": "GBP", "region": "GB" },
+        { "cost": 50.00, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

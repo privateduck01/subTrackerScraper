@@ -1,0 +1,45 @@
+{
+  "id": "mtn",
+  "name": "MTN Group",
+  "iconUrl": "icons/mtn.jpg",
+  "icon_file": "icons/mtn-group.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Prepaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "ZAR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Contract",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "ZAR",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Home Internet",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "ZAR",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

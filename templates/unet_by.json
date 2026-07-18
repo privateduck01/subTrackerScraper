@@ -1,0 +1,21 @@
+{
+  "id": "unet-by",
+  "name": "Unet.by",
+  "iconUrl": "icons/unet-by.jpg",
+  "icon_file": "icons/unet-by.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    }
+  ]
+}

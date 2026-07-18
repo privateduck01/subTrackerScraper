@@ -1,0 +1,26 @@
+{
+  "id": "odeon",
+  "name": "Odeon",
+  "domain": "odeon.co.uk",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "myLIMITLESS",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.99, "currency": "GBP", "region": "GB" },
+        { "cost": 16.99, "currency": "EUR", "region": "IE" }
+      ]
+    },
+    {
+      "name": "myLIMITLESS Plus",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "GBP", "region": "GB" },
+        { "cost": 19.99, "currency": "EUR", "region": "IE" }
+      ]
+    }
+  ]
+}

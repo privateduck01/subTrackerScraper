@@ -1,0 +1,40 @@
+{
+  "id": "n26",
+  "name": "N26",
+  "domain": "n26.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 0, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Smart",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 4.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "You / Go",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 9.90, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Metal",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.90, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

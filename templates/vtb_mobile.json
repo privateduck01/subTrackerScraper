@@ -1,0 +1,21 @@
+{
+  "id": "vtb-mobile",
+  "name": "ВТБ Мобайл",
+  "iconUrl": "icons/vtb-mobile.jpg",
+  "icon_file": "icons/vtb-mobile.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

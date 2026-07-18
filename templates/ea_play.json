@@ -1,0 +1,68 @@
+{
+  "id": "ea-play",
+  "name": "EA Play",
+  "domain": "ea.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "EA Play (Console)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 5.99, "currency": "USD", "region": "US" },
+        { "cost": 5.99, "currency": "GBP", "region": "GB" },
+        { "cost": 5.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "EA Play (Console) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 39.99, "currency": "USD", "region": "US" },
+        { "cost": 39.99, "currency": "GBP", "region": "GB" },
+        { "cost": 39.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "EA Play (PC)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 5.99, "currency": "USD", "region": "US" },
+        { "cost": 5.99, "currency": "GBP", "region": "GB" },
+        { "cost": 5.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "EA Play (PC) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 39.99, "currency": "USD", "region": "US" },
+        { "cost": 39.99, "currency": "GBP", "region": "GB" },
+        { "cost": 39.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "EA Play Pro (PC)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.99, "currency": "USD", "region": "US" },
+        { "cost": 16.99, "currency": "GBP", "region": "GB" },
+        { "cost": 16.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "EA Play Pro (PC) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 119.99, "currency": "USD", "region": "US" },
+        { "cost": 119.99, "currency": "GBP", "region": "GB" },
+        { "cost": 119.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

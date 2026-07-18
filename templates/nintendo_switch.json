@@ -1,0 +1,58 @@
+{
+  "id": "nintendo-switch",
+  "name": "Nintendo Switch Online",
+  "domain": "nintendo.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 3.99, "currency": "USD", "region": "US" },
+        { "cost": 3.49, "currency": "GBP", "region": "GB" },
+        { "cost": 3.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 19.99, "currency": "USD", "region": "US" },
+        { "cost": 17.99, "currency": "GBP", "region": "GB" },
+        { "cost": 19.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Family Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 34.99, "currency": "USD", "region": "US" },
+        { "cost": 31.49, "currency": "GBP", "region": "GB" },
+        { "cost": 34.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Expansion Pack Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 49.99, "currency": "USD", "region": "US" },
+        { "cost": 34.99, "currency": "GBP", "region": "GB" },
+        { "cost": 39.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Expansion Pack Family Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 79.99, "currency": "USD", "region": "US" },
+        { "cost": 59.99, "currency": "GBP", "region": "GB" },
+        { "cost": 69.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cosmos-tv",
+  "name": "Cosmos TV",
+  "iconUrl": "icons/cosmos-tv.jpg",
+  "icon_file": "icons/cosmos-tv-seeklogo.png",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Интернет + ТВ",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "BYN",
+          "region": "BY"
+        }
+      ]
+    }
+  ]
+}

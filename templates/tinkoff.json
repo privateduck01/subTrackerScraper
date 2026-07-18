@@ -1,0 +1,32 @@
+{
+  "id": "tinkoff",
+  "name": "Tinkoff (Т-Банк)",
+  "domain": "tbank.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Tinkoff Pro",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 299, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Tinkoff Pro (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 1990, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Tinkoff Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 2990, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

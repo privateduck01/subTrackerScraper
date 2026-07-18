@@ -1,0 +1,72 @@
+{
+  "id": "yandex-plus",
+  "name": "Яндекс Плюс",
+  "domain": "plus.yandex.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Плюс (Ежемесячно)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 449,
+          "currency": "RUB",
+          "region": "RU"
+        },
+        {
+          "cost": 15999,
+          "currency": "UZS",
+          "region": "UZ"
+        },
+        {
+          "cost": 14.99,
+          "currency": "BYN",
+          "region": "BY"
+        },
+        {
+          "cost": 1999,
+          "currency": "KZT",
+          "region": "KZ"
+        }
+      ]
+    },
+    {
+      "name": "Плюс (Ежегодно)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 4490,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Плюс с Амедиатекой (Ежемесячно)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 699,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Плюс с Амедиатекой (Ежегодно)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 6990,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/yandex-plus.jpg"
+}

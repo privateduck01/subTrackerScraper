@@ -1,0 +1,33 @@
+{
+  "id": "alex-fitness",
+  "name": "Alex Fitness",
+  "iconUrl": "icons/alex-fitness.jpg",
+  "icon_file": "icons/alex-fitness.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Безлимит (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Безлимит (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

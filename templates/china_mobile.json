@@ -1,0 +1,69 @@
+{
+  "id": "china-mobile",
+  "name": "China Mobile",
+  "iconUrl": "icons/china-mobile.jpg",
+  "icon_file": "icons/china-mobile.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Prepaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "5G / 5.5G Postpaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Family Plan",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Home Broadband (Fiber)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Cross-border / Roaming Plan",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "CNY",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

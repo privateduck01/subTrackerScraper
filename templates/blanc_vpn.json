@@ -1,0 +1,45 @@
+{
+  "id": "blanc-vpn",
+  "name": "Blanc VPN",
+  "domain": "blancvpn.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка на 1 месяц",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 7.99,
+          "currency": "EUR",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Подписка на 1 год",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 47.88,
+          "currency": "EUR",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Подписка на 2 года",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 71.76,
+          "currency": "EUR",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/blanc-vpn.jpeg"
+}

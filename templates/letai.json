@@ -1,0 +1,21 @@
+{
+  "id": "letai",
+  "name": "Летай (Таттелеком)",
+  "iconUrl": "icons/letai.jpg",
+  "icon_file": "icons/letai-tattelecom.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

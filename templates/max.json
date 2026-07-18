@@ -1,0 +1,141 @@
+{
+  "id": "max",
+  "name": "Max (HBO)",
+  "domain": "max.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Basic with Ads",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 10.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 4.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 5.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Basic with Ads Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 109.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 49.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 59.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 18.49,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 9.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 9.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Standard Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 184.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 99.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 99.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 22.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 14.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 13.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 229.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 149.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 139.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/hbo.png"
+}

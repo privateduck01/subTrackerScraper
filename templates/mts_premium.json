@@ -1,0 +1,24 @@
+{
+  "id": "mts-premium",
+  "name": "МТС Premium",
+  "domain": "premium.mts.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "МТС Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 349, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "МТС Premium (Год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 1890, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "america-movil",
+  "name": "América Móvil (Claro/Telcel)",
+  "iconUrl": "icons/america-movil.jpg",
+  "icon_file": "icons/america-movil.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Mobile Prepaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "MXN",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Postpaid",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "MXN",
+          "region": "GLOBAL"
+        }
+      ]
+    },
+    {
+      "name": "Home Internet",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "MXN",
+          "region": "GLOBAL"
+        }
+      ]
+    }
+  ]
+}

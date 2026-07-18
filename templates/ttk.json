@@ -1,0 +1,21 @@
+{
+  "id": "ttk",
+  "name": "ТТК (ТрансТелеКом)",
+  "iconUrl": "icons/ttk.jpg",
+  "icon_file": "icons/ttk-transtelecom.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

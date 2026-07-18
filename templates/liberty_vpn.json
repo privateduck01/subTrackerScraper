@@ -1,0 +1,57 @@
+{
+  "id": "liberty-vpn",
+  "name": "Liberty VPN",
+  "domain": "t.me",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка на 1 месяц",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 499,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Подписка на 3 месяца",
+      "periodQty": 3,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 1399,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Подписка на 6 месяцев",
+      "periodQty": 6,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 2699,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Подписка на 1 год",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 4999,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/liberty-vpn.jpeg"
+}

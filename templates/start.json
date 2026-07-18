@@ -1,0 +1,32 @@
+{
+  "id": "start",
+  "name": "Start",
+  "domain": "start.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "START (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 499, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "START (6 месяцев)",
+      "periodQty": 6,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 1690, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "START (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 2990, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

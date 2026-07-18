@@ -1,0 +1,17 @@
+{
+  "id": "sibseti",
+  "name": "Сибирские сети",
+  "iconUrl": "icons/sibseti.jpg",
+  "icon_file": "sibseti.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {"cost": 0.0, "currency": "RUB", "region": "RU"}
+      ]
+    }
+  ]
+}

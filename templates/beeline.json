@@ -1,0 +1,33 @@
+{
+  "id": "beeline",
+  "name": "Билайн",
+  "iconUrl": "icons/beeline.jpg",
+  "icon_file": "icons/beeline-seeklogo-2.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь (UP)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Домашний интернет",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "paper-vpn",
+  "name": "Paper VPN (Бумага)",
+  "domain": "papervpn.io",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Подписка на 1 месяц",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 299, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Подписка на 1 год",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 2990, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Подписка на 2 года",
+      "periodQty": 2,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 4990, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

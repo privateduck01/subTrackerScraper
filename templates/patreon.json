@@ -1,0 +1,75 @@
+{
+  "id": "patreon",
+  "name": "Patreon",
+  "domain": "patreon.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Tier 1",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 5.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.0,
+          "currency": "EUR",
+          "region": "EU"
+        },
+        {
+          "cost": 5.0,
+          "currency": "GBP",
+          "region": "GB"
+        }
+      ]
+    },
+    {
+      "name": "Tier 2",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 10.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.0,
+          "currency": "EUR",
+          "region": "EU"
+        },
+        {
+          "cost": 10.0,
+          "currency": "GBP",
+          "region": "GB"
+        }
+      ]
+    },
+    {
+      "name": "Tier 3",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 25.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 25.0,
+          "currency": "EUR",
+          "region": "EU"
+        },
+        {
+          "cost": 25.0,
+          "currency": "GBP",
+          "region": "GB"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/patreon.svg"
+}

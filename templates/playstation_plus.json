@@ -1,0 +1,68 @@
+{
+  "id": "playstation-plus",
+  "name": "PlayStation Plus",
+  "domain": "playstation.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Essential",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 10.99, "currency": "USD", "region": "US" },
+        { "cost": 7.99, "currency": "GBP", "region": "GB" },
+        { "cost": 9.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Essential Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 79.99, "currency": "USD", "region": "US" },
+        { "cost": 59.99, "currency": "GBP", "region": "GB" },
+        { "cost": 71.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Extra",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 16.99, "currency": "USD", "region": "US" },
+        { "cost": 11.99, "currency": "GBP", "region": "GB" },
+        { "cost": 16.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Extra Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 134.99, "currency": "USD", "region": "US" },
+        { "cost": 99.99, "currency": "GBP", "region": "GB" },
+        { "cost": 125.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 19.99, "currency": "USD", "region": "US" },
+        { "cost": 14.49, "currency": "GBP", "region": "GB" },
+        { "cost": 19.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Premium Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 159.99, "currency": "USD", "region": "US" },
+        { "cost": 119.99, "currency": "GBP", "region": "GB" },
+        { "cost": 151.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

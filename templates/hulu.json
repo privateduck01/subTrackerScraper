@@ -1,0 +1,56 @@
+{
+  "id": "hulu",
+  "name": "Hulu",
+  "domain": "hulu.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Hulu (With Ads)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 11.99,
+          "currency": "USD",
+          "region": "US"
+        }
+      ]
+    },
+    {
+      "name": "Hulu (With Ads) Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 119.99,
+          "currency": "USD",
+          "region": "US"
+        }
+      ]
+    },
+    {
+      "name": "Hulu (No Ads)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 18.99,
+          "currency": "USD",
+          "region": "US"
+        }
+      ]
+    },
+    {
+      "name": "Hulu + Live TV",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 89.99,
+          "currency": "USD",
+          "region": "US"
+        }
+      ]
+    }
+  ]
+}

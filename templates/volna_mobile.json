@@ -1,0 +1,21 @@
+{
+  "id": "volna-mobile",
+  "name": "Волна Мобайл",
+  "iconUrl": "icons/volna-mobile.jpg",
+  "icon_file": "icons/volna-mobile.jpg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Мобильная связь",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

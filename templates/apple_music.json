@@ -1,0 +1,97 @@
+{
+  "id": "apple-music",
+  "name": "Apple Music",
+  "domain": "music.apple.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Student",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 5.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 5.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 5.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 10.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 10.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 10.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 109.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 109.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 109.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 16.99,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 16.99,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 16.99,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/apple-music.svg"
+}

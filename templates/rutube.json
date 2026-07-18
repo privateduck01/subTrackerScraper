@@ -1,0 +1,45 @@
+{
+  "id": "rutube",
+  "name": "Rutube",
+  "domain": "rutube.ru",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "PREMIER x RUTUBE (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 399,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "PREMIER x RUTUBE (3 месяца)",
+      "periodQty": 3,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 699,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "PREMIER x RUTUBE (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 1799,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/rutube-seeklogo.svg"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "strava",
+  "name": "Strava",
+  "domain": "strava.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Individual",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 11.99, "currency": "USD", "region": "US" },
+        { "cost": 8.99, "currency": "GBP", "region": "GB" },
+        { "cost": 10.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Individual Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 79.99, "currency": "USD", "region": "US" },
+        { "cost": 54.99, "currency": "GBP", "region": "GB" },
+        { "cost": 69.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Student Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 39.99, "currency": "USD", "region": "US" },
+        { "cost": 27.49, "currency": "GBP", "region": "GB" },
+        { "cost": 34.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Family Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        { "cost": 139.99, "currency": "USD", "region": "US" },
+        { "cost": 99.99, "currency": "GBP", "region": "GB" },
+        { "cost": 129.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}

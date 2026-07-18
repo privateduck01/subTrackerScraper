@@ -1,0 +1,141 @@
+{
+  "id": "bumble",
+  "name": "Bumble",
+  "domain": "bumble.com",
+  "defaultTier": 1,
+  "tiers": [
+    {
+      "name": "Boost",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 15.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 12.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 15.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Boost Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 120.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 90.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 120.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 35.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 25.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 35.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 240.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 180.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 240.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium+",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 75.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 55.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 75.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    },
+    {
+      "name": "Premium+ Annual",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 480.0,
+          "currency": "USD",
+          "region": "US"
+        },
+        {
+          "cost": 350.0,
+          "currency": "GBP",
+          "region": "GB"
+        },
+        {
+          "cost": 480.0,
+          "currency": "EUR",
+          "region": "EU"
+        }
+      ]
+    }
+  ],
+  "icon_file": "icons/bumble.svg"
+}

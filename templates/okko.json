@@ -1,0 +1,24 @@
+{
+  "id": "okko",
+  "name": "Okko",
+  "domain": "okko.tv",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Базовая (Оптимум)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "RUB", "region": "RU" }
+      ]
+    },
+    {
+      "name": "Расширенная (Прайм + Премиум)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 899, "currency": "RUB", "region": "RU" }
+      ]
+    }
+  ]
+}

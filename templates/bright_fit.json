@@ -1,0 +1,33 @@
+{
+  "id": "bright-fit",
+  "name": "Bright Fit",
+  "iconUrl": "icons/bright-fit.jpg",
+  "icon_file": "icons/bright-fit.svg",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Абонемент (1 месяц)",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    },
+    {
+      "name": "Абонемент (1 год)",
+      "periodQty": 1,
+      "periodUnit": "YEAR",
+      "prices": [
+        {
+          "cost": 0.0,
+          "currency": "RUB",
+          "region": "RU"
+        }
+      ]
+    }
+  ]
+}

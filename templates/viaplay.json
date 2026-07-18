@@ -1,0 +1,26 @@
+{
+  "id": "viaplay",
+  "name": "Viaplay",
+  "domain": "viaplay.com",
+  "defaultTier": 0,
+  "tiers": [
+    {
+      "name": "Viaplay Film & Series",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 149, "currency": "SEK", "region": "SE" },
+        { "cost": 14.99, "currency": "EUR", "region": "EU" }
+      ]
+    },
+    {
+      "name": "Viaplay Total",
+      "periodQty": 1,
+      "periodUnit": "MONTH",
+      "prices": [
+        { "cost": 399, "currency": "SEK", "region": "SE" },
+        { "cost": 44.99, "currency": "EUR", "region": "EU" }
+      ]
+    }
+  ]
+}
